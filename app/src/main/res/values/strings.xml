@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Language Perfersnce</string>
+    <string name="arabic">العربية</string>
+    <string name="english">English</string>
+    <string name="Go">Go</string>
+    <string name="hello_world">Hello world</string>
+</resources>

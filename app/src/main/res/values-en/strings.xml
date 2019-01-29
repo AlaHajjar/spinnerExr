@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Language Perfersnce</string>
+    <string name="Go">Start</string>
+    <string name="hello_world">Hi world</string>
+</resources>
