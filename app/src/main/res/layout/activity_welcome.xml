@@ -12,8 +12,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true">
+        <TextView
+            android:id="@+id/tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="choseLanguage"/>
 
 
+<!--
         <Spinner
             android:id="@+id/spn1"
 
@@ -21,9 +27,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingStart="18dp"
+            android:entries="@array/languages_array"
             android:spinnerMode="dropdown">
 
         </Spinner>
+-->
     </LinearLayout>
 
     <Button
